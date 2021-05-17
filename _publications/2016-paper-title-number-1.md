@@ -5,10 +5,10 @@ permalink: /publications/2016-paper-title-number-1.md
 excerpt: 'Proposed a framework for e-commerce management to utilize unstructured text reviews of products for aspect analysis to derive insights and recommend products using those insights utilizing Natural Language Processing.'
 date: March 2016
 venue: 'International Journal of Computer Applications'
+paperurl: 'https://www.ijcaonline.org/archives/volume138/number3/24362-2016908757'
 
 ---
 This paper studies various approaches to build a framework for an ecommerce which is capable of assessing and modeling satisfaction of customers as well as deducing business intelligence for managers from online product reviews.
-paperurl: 'https://www.ijcaonline.org/archives/volume138/number3/24362-2016908757'
 
 [Download paper here](https://www.ijcaonline.org/research/volume138/number3/addepalli-2016-ijca-908757.pdf)
 
