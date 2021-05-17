@@ -11,5 +11,3 @@ citation: 'Addepalli, Sree Lakshmi & Gowri, Sree & Kherajani, Monica & Jeshnani,
 This paper studies various approaches to build a framework for an ecommerce which is capable of assessing and modeling satisfaction of customers as well as deducing business intelligence for managers from online product reviews.
 
 [Download paper here](https://www.ijcaonline.org/research/volume138/number3/addepalli-2016-ijca-908757.pdf)
-
-Recommended citation: Addepalli, Sree Lakshmi & Gowri, Sree & Kherajani, Monica & Jeshnani, Harsha & Khedkar, Sujata. (2016). A Proposed Framework for Measuring Customer Satisfaction and Product Recommendation for Ecommerce. International Journal of Computer Applications. 138. 30-35. 10.5120/ijca2016908757. 
