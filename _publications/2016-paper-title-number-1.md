@@ -6,7 +6,6 @@ excerpt: 'Proposed a framework for e-commerce management to utilize unstructured
 date: March 2016
 venue: 'International Journal of Computer Applications'
 paperurl: 'https://www.ijcaonline.org/archives/volume138/number3/24362-2016908757'
-
 ---
 This paper studies various approaches to build a framework for an ecommerce which is capable of assessing and modeling satisfaction of customers as well as deducing business intelligence for managers from online product reviews.
 
