@@ -1,7 +1,7 @@
 ---
 title: "A Proposed Framework for Measuring Customer Satisfaction and Product Recommendation for Ecommerce"
 collection: publications
-permalink: https://www.ijcaonline.org/archives/volume138/number3/24362-2016908757
+permalink: /publications/2016-paper-title-number-1.md
 excerpt: 'Proposed a framework for e-commerce management to utilize unstructured text reviews of products for aspect analysis to derive insights and recommend products using those insights utilizing Natural Language Processing.'
 date: March 2016
 venue: 'International Journal of Computer Applications'
