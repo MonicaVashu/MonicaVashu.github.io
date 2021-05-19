@@ -8,5 +8,5 @@ date: 2019-08-01
 location: "Buffalo, New York, United States"
 ---
 
-Full stack web development course.
+Developed and taught Full stack web development course along with another instructor.
 [Checkout.](https://www.ecc.edu/academics/continuing-education.html)
