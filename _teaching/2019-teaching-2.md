@@ -4,7 +4,7 @@ collection: teaching
 type: "Assisstance"
 permalink: /teaching/2019-teaching-2
 venue: "SUNY Buffalo, Computer Science Department"
-date: Jan 2019
+date: 2019-01-01
 location: "Buffalo, New York, United States"
 ---
 
