@@ -11,22 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Engineer, Mumbai University, 2016
-* M.S. in Computer Science, State University of New York, Buffalo, 2020
+* **B.E. in Computer Engineer, Mumbai University, 2016**
+* **M.S. in Computer Science, State University of New York, Buffalo, 2020**
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Software Development Engineer, Amazon Web Services, Boston, USA, 2020
+* **Software Development Engineer, Amazon Web Services, Boston, USA, 2020**
   * Improved operational functioning of the team by developing required alarms, dashboards and runbooks.
   * Fixed various emergent issues to Keep the lights on for the FSx team.
   * Defined various change management templates to ease one-time operations and save developers’ time.
   * Developed understanding of how integration with different AWS services like s3, ec2, dynamodb works internally.
-* Software Engineer, Accenture Solutions Pvt. Ltd.,  Navi Mumbai, India, 2016-2018
+* **Software Engineer, Accenture Solutions Pvt. Ltd.,  Navi Mumbai, India, 2016-2018
   * Understood client requirements, developed application as an Agile scrum development team using test driven development.
   * Developed custom components, designed templates for a website from a content management perspective using AEM 6.2
   * Implemented Sling based models on backend and integrated with third party services/ APIs.
