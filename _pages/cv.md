@@ -21,7 +21,7 @@ Work experience
   * Fixed various emergent issues to Keep the lights on for the FSx team.
   * Defined various change management templates to ease one-time operations and save developers’ time.
   * Developed understanding of how integration with different AWS services like s3, ec2, dynamodb works internally.
-* **Software Engineer, Accenture Solutions Pvt. Ltd.,  Navi Mumbai, India, 2016-2018
+* **Software Engineer, Accenture Solutions Pvt. Ltd.,  Navi Mumbai, India, 2016-2018**
   * Understood client requirements, developed application as an Agile scrum development team using test driven development.
   * Developed custom components, designed templates for a website from a content management perspective using AEM 6.2
   * Implemented Sling based models on backend and integrated with third party services/ APIs.
