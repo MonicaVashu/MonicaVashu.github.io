@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download pdf](https://drive.google.com/file/d/1V5QvhKY6BmEZK7QBblqvnDsvWLkC1thm/view?usp=sharing)
+
 Education
 ======
 * **B.E. in Computer Engineer, Mumbai University, 2016**
@@ -33,11 +35,11 @@ Work experience
 
 Skills
 ======
-* Languages: Java, Python 
-* Tools: Eclipse, jupyter notebook, VS code, Git, Jenkins, Jira
-* Machine Learning: Tensorflow, Keras, PyTorch, scikit-learn, numpy, matplotlib, Spark Mlib, OpenCV 
-* Data Management and Analytics: SQL, Weka, Tableau, NLTK, R, Hadoop
-* Web Development: HTML, CSS, Bootstrap, Adobe Experience Manager (AEM 6.2), JSON, Javascript, Django
+* **Languages:** Java, Python 
+* **Tools:** Eclipse, jupyter notebook, VS code, Git, Jenkins, Jira
+* **Machine Learning:** Tensorflow, Keras, PyTorch, scikit-learn, numpy, matplotlib, Spark Mlib, OpenCV 
+* **Data Management and Analytics:** SQL, Weka, Tableau, NLTK, R, Hadoop
+* **Web Development:** HTML, CSS, Bootstrap, Adobe Experience Manager (AEM 6.2), JSON, Javascript, Django
 
 Publications
 ======
